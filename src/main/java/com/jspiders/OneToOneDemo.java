@@ -82,5 +82,11 @@ public class OneToOneDemo {
         sessionFactory.close();
 
         System.out.println("program ends...");
+        System.out.println("program ends...");
+        System.out.println("program ends...");
+        System.out.println("program ends...");
+
+
+
     }
 }
